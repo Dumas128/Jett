@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GCD4RPJOFWBHNH7HSXQFJJOE2RKPAF54CJYLZ4RH3RRBBTYMFYRQCSCP"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="JettLaboratory"
+ORG_URL="https://jettlaboratory.com/"
+ORG_DESCRIPTION="Jett - Build fast, reward everyone, and scale without friction."
+ORG_TWITTER="@JettCoin"
+ORG_LOGO="https://i.ibb.co/qrs0HtM/jett-blade-valorant-3d-model-stl.jpg"
+ORG_OFFICIAL_EMAIL="contact@jettind.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="JETT"
+issuer="GCD4RPJOFWBHNH7HSXQFJJOE2RKPAF54CJYLZ4RH3RRBBTYMFYRQCSCP"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="Jett Token"
+desc="Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/qrs0HtM/jett-blade-valorant-3d-model-stl.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Jett Coin was issued using the open and inclusive Stellar blockchain network.
